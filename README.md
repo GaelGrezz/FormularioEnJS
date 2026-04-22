@@ -1,4 +1,5 @@
 # Formulario para enviar correos
+<img width="926" height="483" alt="image" src="https://github.com/user-attachments/assets/a3069d78-85f6-4062-81f7-ea1bc5672f64" />
 
 ## Objetivo general
 Desarrollar un formulario maquetado en HTML, estilizado en CSS y validado en JS para simular el envío de correos. 
@@ -15,5 +16,4 @@ Se implementan funciones declarativas para validar, controlar y verificar el con
 
 DISCLAIMER: 
 El HTML y CSS fueron extraídos del curso JavaScript Moderno Guía Definitiva Construye +20 Proyectos del ingeniero Juan Pablo De la torre Valdez.
-El código JS es completamente mío, no se ha usado IA o modelos para programación, a excepción de recursos resultados de la  investigación en métodos y funciones 
-como el uso de la constante regex para validar correos.   
+El código JS es completamente mío, no se ha usado IA o modelos para programación, a excepción de recursos como documentación y otros medios de investigación para consultar métodos y funciones para lograr el objetivo del sitio web.
